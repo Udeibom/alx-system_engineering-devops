@@ -1,2 +1,2 @@
 #!/bin/bash
-. .. 0-current_working_directory .0-current_working_directory.swo .0-current_working_directory.swp 1-listit README.md
+ls
